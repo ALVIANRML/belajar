@@ -56,6 +56,9 @@ int main(){
     cout << "hasil modulos        " << c << " mod " << d << " = ";
     cout << c%d << endl;
         }
+    else { 
+        cout << "operator kamu salah";
+          }
     cin.get();
 return 0;
 }
